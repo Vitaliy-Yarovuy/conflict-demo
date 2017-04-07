@@ -2,8 +2,8 @@
 
 1)a
 2)b 
-3h) c - hotfix
+3m)c - master 
 4)d
-5h) e - hitfix
+5m)e - master
 6)f
 7)g
